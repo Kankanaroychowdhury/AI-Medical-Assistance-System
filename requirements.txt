@@ -1,0 +1,5 @@
+streamlit
+SpeechRecognition
+sounddevice
+soundfile
+pyserial
