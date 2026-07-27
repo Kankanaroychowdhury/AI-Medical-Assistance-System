@@ -1,0 +1,28 @@
+[
+  {
+    "symptoms": ["fever", "cough"],
+    "disease": "Flu",
+    "medicine": "Paracetamol"
+  },
+  {
+    "symptoms": ["headache"],
+    "disease": "Migraine",
+    "medicine": "Ibuprofen"
+  },
+  {
+    "symptoms": ["stomach pain"],
+    "disease": "Gastritis",
+    "medicine": "Antacid"
+  },
+ {
+    "symptoms": ["Allergy","Skin rash"],
+    "disease": "Allergy",
+    "medicine": "Cetirizine"  
+  },
+  {
+    "symptoms": ["heartburn","indigestion"],
+    "disease": "Indigestion",
+    "medicine": "Eno"  
+  }
+
+]
